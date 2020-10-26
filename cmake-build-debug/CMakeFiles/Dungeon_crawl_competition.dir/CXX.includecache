@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yingjie/Desktop/2020 Fall Semester/C:C++/Dungeon_crawl_competition/character.h
+string
+-
+
+/Users/yingjie/Desktop/2020 Fall Semester/C:C++/Dungeon_crawl_competition/dungeonScene.cpp
+iostream
+-
+ctime
+-
+character.h
+/Users/yingjie/Desktop/2020 Fall Semester/C:C++/Dungeon_crawl_competition/character.h
+dungeonScene.h
+/Users/yingjie/Desktop/2020 Fall Semester/C:C++/Dungeon_crawl_competition/dungeonScene.h
+
+/Users/yingjie/Desktop/2020 Fall Semester/C:C++/Dungeon_crawl_competition/dungeonScene.h
+
